@@ -268,7 +268,7 @@ nav #part-2 #icons i {
 #page-4 .child img {
     height: 100%;
     width: 100%;
-    object-fit: cover;
+    object-fit: contain;
 }
 
 #page-4 .child p {
